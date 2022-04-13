@@ -7,7 +7,8 @@ Usei Styled - Components para estilizar a aplicação e Criei rotas do tipo GET,
 Neste projeto foram utilizadas as seguintes ferramentas:
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Elemen[t/html/)  
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
 - [Nodejs](https://developer.mozilla.org/pt-BR/docs/Web/API/Node)  
 - [React](https://pt-br.reactjs.org/) 
 ## 🤝 Collaborators
